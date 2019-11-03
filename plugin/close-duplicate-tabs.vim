@@ -40,4 +40,4 @@ function! CloseDuplicateTabs()
 
 endfunction
 
-command CloseDupTabs :call CloseDuplicateTabs()
+command! CloseDupTabs :call CloseDuplicateTabs()
