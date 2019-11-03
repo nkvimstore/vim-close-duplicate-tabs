@@ -14,7 +14,7 @@
 "
 " v 0.1
 
-function CloseDuplicateTabs!() 
+function CloseDuplicateTabs()! 
 	let cnt = 0
 	let i = 1
 
